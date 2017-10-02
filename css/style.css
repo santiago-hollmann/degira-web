@@ -459,12 +459,7 @@ h6 {
   }
 }
 .home {
-  background-image: url(../photos/baby-bg.jpg);
-  background-position: top center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: #000;
+  background-color: #ff9900;
   padding: 100px 0;
   position: relative
   /* Temp CSS */
